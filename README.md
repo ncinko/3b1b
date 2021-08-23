@@ -1,1 +1,1 @@
-# 3b1b
+This link [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncinko/3b1b/HEAD?urlpath=voila%2Frender%2Fwaves_intro.ipynb) will open the Jupyter notebook through Binder and render it as a webpage using voila (https://github.com/voila-dashboards/voila).
